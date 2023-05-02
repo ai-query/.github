@@ -10,7 +10,7 @@ AI Query is the fastest way for engineers to generate SQL queries. In seconds, g
 - **Invite**: Invite your friends to join
 - **Registration**: No fuss sign up, we made it simple
 
-Visit [aiquery.app](https://aiquery.co) to learn more and start querying!
+Visit [aiquery.co](https://aiquery.co) to learn more and start querying!
 
 ## Getting Help
 
